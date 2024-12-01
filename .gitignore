@@ -2,6 +2,8 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Content/movie
+!CameraShots.uasset
 .vscode
 .vs
 *.VC.db
